@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0_Оглавление.md",
+            "file": "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Оглавление.md",
+                "file": "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,13 @@
   },
   "active": "81b9277820c520b6",
   "lastOpenFiles": [
-    "0_Оглавление.md"
+    "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
+    "my_files/Заметки_1.6.md",
+    "my_files/Заметки_1.1.md",
+    "README.md",
+    "0_Оглавление.md",
+    "my_files/101_1_1. Введение.md",
+    "data-engineering/readme.md",
+    "data-engineering/DE - 101 Guide.md"
   ]
 }
