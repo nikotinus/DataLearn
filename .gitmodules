@@ -1,0 +1,3 @@
+[submodule "data-engineering"]
+	path = data-engineering
+	url = git@github.com:nikotinus/data-engineering.git
