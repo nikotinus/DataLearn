@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 596
   },
   "right": {
     "id": "701f8ea954d0d90d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,15 @@
   },
   "active": "81b9277820c520b6",
   "lastOpenFiles": [
-    "data-engineering/DE-101 Modules/Module01/DE - 101 Module01.md",
-    "my_files/Заметки_1.6.md",
-    "my_files/Заметки_1.1.md",
     "README.md",
-    "0_Оглавление.md",
-    "my_files/101_1_1. Введение.md",
     "data-engineering/readme.md",
-    "data-engineering/DE - 101 Guide.md"
+    "data-engineering/Users/alex/code/data-engineering/audio/1_Откуда_взялся_Data_Learn_и_почему_он_бесплатный.mp3",
+    "data-engineering/my_files/101_1_2. Роль аналитики в организации.md",
+    "data-engineering/DE - 101 Guide.md",
+    "data-engineering/Git-101.md",
+    "data-engineering/Learning resources.md",
+    "data-engineering/my_files/101_2_1. Введение в модуль 2.md",
+    "data-engineering/my_files/Заметки_1.1.md",
+    "my_files/101_1_1. Введение.md"
   ]
 }
