@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a81f056232c9af95",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e291e4fbdaa38cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DE-101 Modules/Module02/DE - 101 Module02.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18435f56e5d075fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d09bcb2237ac03db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd6d74623077cf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "833928af3ffdd333",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72730c162fef1c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcca9f600b6b7025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6bda872c562c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DE-101 Modules/Module02/DE - 101 Module02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e291e4fbdaa38cc",
+  "lastOpenFiles": [
+    "DE-101 Modules/Module02/DE - 101 Module02.md",
+    "readme.md",
+    "DE-101 Modules/Module01/DE - 101 Lab 1.1/readme.md",
+    "Users/alex/code/data-engineering/notes/Lab1_1.md",
+    "DE-101 Modules/Module01/DE - 101 Lab 1.1/build_steps_dashboard.md",
+    "Users/alex/code/data-engineering/img/выбор визуализации данных.jpg",
+    "Users/alex/code/data-engineering/labs/Module01/Без названия.md",
+    "DE-101 Modules/Module01/DE - 101 Module01.md",
+    "DE-101 Modules%2FModule01%2FDE - 101 Lab 1.1%2FSampleSuperstore.xls.md",
+    "SampleSuperstore.xls.md"
+  ]
+}
